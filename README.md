@@ -78,7 +78,7 @@ We maintain a **live contribution tracker** powered by GitHub APIs.
 
 ## 🌎 Community & Links
 
-Stay connected with UFC across platforms:
+Stay connected with UFC across all platforms:
 
 * 🟢 **WhatsApp Community:** [Join Here](https://chat.whatsapp.com/LecJGvvE67JAwPCa3scYqP)
 * 💬 **Discord Server:** *(ehh)*
